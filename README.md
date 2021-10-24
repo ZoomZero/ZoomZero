@@ -14,11 +14,6 @@ Skills: C / C++ / Java / Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZoomZero)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fadevapor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/zoomzero)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoomZero)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoomZero&show_icons=true)  
-
-
 <details open>
  <summary> <b>Github Stats</b>: </summary>
 <br>
