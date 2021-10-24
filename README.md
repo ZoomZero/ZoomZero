@@ -17,3 +17,14 @@ Skills: C / C++ / Java / Python
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoomZero)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoomZero&show_icons=true)  
+
+
+<details open>
+ <summary> <b>Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ZoomZero&show_icons=true&theme=system&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZoomZero&hide=css,java,html&theme=system">
+</p>
+
+</details>
