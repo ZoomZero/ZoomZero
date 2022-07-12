@@ -5,10 +5,10 @@
 1. Check out my [***CV***](CV.pdf)
 2. Write to my email ***zoomzero@frtk.ru*** 
 
-Skills: C / C++ / Java / Python
+Skills: Python / Django / PostgreDQL / C / C++ / QT / Java
 
-- 🔭 I’m currently working on Cognitia-II 
-- 🌱 I’m currently learning QT C++ / Java Maven / Python Deep Learning 
+- 🔭 I’m currently working on "ПАО НПО Алмаз" 
+- 🌱 I’m currently learning Machine Learning / Kalman Filtering / Django
 - ⚡ Fun fact: Snowboarding, sailing 
 
 
