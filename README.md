@@ -5,7 +5,7 @@
 1. Check out my [***CV***](CV.pdf)
 2. Write to my email ***zoomzero@frtk.ru*** 
 
-Skills: Python / Django / PostgreDQL / C / C++ / QT / Java
+Skills: Python / Django / PostgreSQL / C / C++ / QT / Java
 
 - 🔭 I’m currently working on "ПАО НПО Алмаз" 
 - 🌱 I’m currently learning Machine Learning / Kalman Filtering / Django
